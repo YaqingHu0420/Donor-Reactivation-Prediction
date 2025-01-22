@@ -1,8 +1,6 @@
 # ML Project: Predicting Donor Reactivation
 ## Overview
-This project aims to predict donors likely to reactivate and contribute more than €30 to targeted campaigns. 
-By utilizing machine learning, we enable nonprofits to focus their outreach on the most promising donors, 
-optimizing resources and improving campaign effectiveness.
+This project aims to predict donors likely to reactivate and contribute more than €30 to targeted campaigns. Utilizing machine learning enables nonprofit organizations to focus their outreach on the most promising donors, optimizing resources and improving campaign effectiveness.
 
 ## Project Objectives
 Build a predictive model to identify potential donors for reactivation campaigns.
